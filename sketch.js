@@ -1,4 +1,4 @@
-var pointillismAreaHeight = 290, //a schermo interno è il punto dove tocca l'orizzonte
+var pointillismAreaHeight = window.innerHeight/2.81, // è il punto dove tocca l'orizzonte
     points = [],
     xPosCorrectionScale = 1,
     pointSizeRange = [5, 10];
